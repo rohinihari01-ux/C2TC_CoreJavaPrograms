@@ -22,7 +22,7 @@ public class Commission {
         address = sc.nextLine();
 
         System.out.println("Enter Phone:");
-        phone = sc.nextLine();
+        phone = sc.nextLine() ;
 
         System.out.println("Enter Sales Amount:");
         salesAmount = sc.nextDouble();

@@ -26,7 +26,7 @@ public class Area_of_Circle {
     public static void main(String[] args) {
         Area_of_Circle c = new  Area_of_Circle ();
         c.getInput();
-        c.calcArea();
+        c.calcArea() ;
     }
 }
 
