@@ -26,7 +26,7 @@ public class StudentDetails {
         System.out.println(grade);
         System.out.println(percentage);
 
-        sc.close() ;
+        sc.close();
     }
 }
 
